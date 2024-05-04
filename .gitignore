@@ -1,0 +1,19 @@
+# Local environment variables
+.env
+.env.local
+
+# Next.js build output
+.next
+
+# Node.js dependencies
+node_modules
+
+# macOS specific files
+.DS_Store
+
+# Node.js dependency lock files
+package-lock.json
+
+# generated file 
+projectCode.txt
+generated_comments.md
