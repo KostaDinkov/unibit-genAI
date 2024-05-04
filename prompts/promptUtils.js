@@ -23,7 +23,7 @@ export function getFunctions() {
         properties: {
           ideaDescription: {
             type: "string",
-            description: "Brief description of the startup idea",
+            description: "Detailed description of the startup idea",
           },
           targetAudience: {
             type: "string",
